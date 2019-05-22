@@ -1,0 +1,65 @@
+﻿2019-05-22 11:55:12,890 [NonParallelWorker] INFO NUnitFramework.Tests.GmailTest - CheckPoint:Test Result is -> True
+2019-05-22 12:06:43,958 [14] ERROR NUnitFramework.Tests.GmailTest - Error:Gmail Test failed : 
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.GmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 36
+2019-05-22 12:09:48,864 [14] ERROR NUnitFramework.Tests.GmailTest - Error:Gmail Test failed : 
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.GmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 36
+2019-05-22 12:19:22,754 [14] ERROR NUnitFramework.Tests.GmailTest - Error:Gmail Test failed : 
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.GmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 36
+2019-05-22 12:23:43,146 [14] ERROR NUnitFramework.Tests.GmailTest - Error:Gmail Test failed : 
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.GmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 36
+2019-05-22 12:33:21,265 [13] ERROR NUnitFramework.Tests.GmailTest - Error:Gmail Test failed : 
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.GmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 36
+2019-05-22 14:48:19,369 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error:GMail test failed
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.VerifyGmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 29
+2019-05-22 14:51:05,097 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error:GMail test failed
+OpenQA.Selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at NUnitFramework.Pages.GmailPage.Gmail(String gmailUserName, String password) in D:\CSharpProjects\GmailProject\NUnitTestProject1\Pages\GmailPage.cs:line 53
+   at NUnitFramework.Tests.GmailTest.VerifyGmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 29
+2019-05-22 14:52:43,641 [NonParallelWorker] INFO NUnitFramework.Tests.GmailTest - CheckPoint:GMail test passed successfully
